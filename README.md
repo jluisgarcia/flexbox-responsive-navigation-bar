@@ -5,8 +5,8 @@ Simple and handy navigation bar for easy integration and customization on any ne
 - vertical menu bar.
 - horizontal menu bar.
 
-### File layout
+### Vertical menu
 
-When you download the zip file, this is what to look for:
+When you download the zip file, this are the files to look for:
 
 
