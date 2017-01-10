@@ -8,7 +8,7 @@ Simple and handy navigation bar for easy integration and customization on any ne
 - vertical menu bar.
 - horizontal menu bar.
 
-### Vertical menu
+### Vertical menu bar
 
 When you download the zip file, this are the files to look for:
 
