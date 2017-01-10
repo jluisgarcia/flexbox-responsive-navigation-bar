@@ -16,5 +16,13 @@ Simple and handy navigation bar for easy integration and customization on any ne
 ### Vertical menu bar
 
 When you download the zip file, this are the files to look for:
+<pre><code>.
+├── ...
+├── test                    # Test files (alternatively `spec` or `tests`)
+│   ├── benchmarks          # Load and stress tests
+│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+│   └── unit                # Unit tests
+└── ...
+</code></pre>
 
 
