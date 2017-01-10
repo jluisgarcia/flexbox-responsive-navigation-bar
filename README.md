@@ -1,2 +1,2 @@
 # Flexbox responsive navigation bar
-flexbox-based responsive navigation bar without the need of Bootstrap dependencies.
+Navigation bar for easy integraion and customization on any new or existing page.
