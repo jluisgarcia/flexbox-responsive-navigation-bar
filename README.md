@@ -8,14 +8,16 @@ Simple and handy navigation bar for easy integration and customization on any ne
 - Vertical menu bar.
 - Horizontal menu bar.
 
-## Vertical Menu bar
+## Dependencies
 
-### Dependencies
+### Vertical menu bar
 
 - jQuery
 - Font Awesome (optional bars icon)
 
-### Code
+## Code
+
+### Vertical menu bar
 
 When you download the zip file, these are the files to look for:
 <pre>
@@ -27,9 +29,11 @@ When you download the zip file, these are the files to look for:
 └── ...
 </code>
 </pre>
-Simply, open *v-menu.html* on your favorite browser and test it right away.
+Simply, open *v-menu.html* on your favourite browser and test it right away.
 
-### Versions
+## Versions
+
+### Vertical menu bar
 
 + 1.0
   - First production-ready release.
