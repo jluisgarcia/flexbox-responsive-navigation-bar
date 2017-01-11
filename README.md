@@ -22,11 +22,12 @@ When you download the zip file, these are the files to look for:
 <code>.
 ├── ...
 ├── v-menu.html             
-├── css                    
+├── v-css                    
 │   └── style.css          
 └── ...
 </code>
 </pre>
+Simply, open *v-menu.html* on your favorite browser and test it right away.
 
 ### Versions
 
