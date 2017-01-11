@@ -59,3 +59,7 @@ Simply, open *v-menu.html* or *h-menu.html* on your favourite browser and test i
 
 + 0.6
   - Development state. 
+
+## License
+
+MIT
