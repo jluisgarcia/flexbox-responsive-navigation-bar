@@ -3,7 +3,7 @@ SORRY FOR THE INCONVENIENCE
 
 # Flexbox responsive navigation bar
 
-Simple and handy navigation bar for easy integration and customization on any new or existing page. **No need for Bootstrap**. We can choose from two options:
+Simple and handy navigation bar for easy integration and customization on any new or existing web page. **No need for Bootstrap**. We can choose from two options:
 
 - vertical menu bar.
 - horizontal menu bar.
