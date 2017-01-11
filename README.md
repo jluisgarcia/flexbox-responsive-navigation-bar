@@ -29,7 +29,6 @@ When you download the zip file, this are the files to look for:
 
 ### Versions
 
-+ Nulla volutpat aliquam velit
-  - Phasellus iaculis neque
-  - Purus sodales ultricies
-
++ 1.0
+  - First production-ready release.
+  
