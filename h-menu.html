@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <title>Vertical Menu Bar</title>
+
+  <!-- FontAwwesome -->
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- Custom styles -->
+   <link href="h-css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+  <!-- ALL HTML5 GOES HERE -->
+
+  <!-- This is the code for the nav menu. Yo can add or remove items, to suit your needs -->
+  
+<nav>
+    <div class="block-one">
+      <div class="toggle">
+        <a href="#"><span class="fa fa-bars fa-lg"></span></a>
+      </div>
+      <div>
+        <a href="#" class="logo">logo</a>
+        <a href="#" class="brand">brand</a>
+      </div>
+    </div>    
+    <div class="block-two">
+      <div>
+        <a href="#">location</a>
+        <a href="#">about</a>
+        <a href="#">contact</a>
+        <a href="#"><span class="fa fa-facebook-official fa-lg"></span></a>
+      </div>
+    </div>
+</nav>
+<div class="suplemento"></div>
+
+   
+  <!-- ALL JS GOES HERE -->
+
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
+  
+  <!-- jQueryUI -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>  
+  
+  <!-- Custom JS -->
+  <script>
+
+  $(document).ready(function() {  
+ 
+  $('.toggle').on('click', function() {  // this code is from jQuery
+        
+        $('.block-two').toggle('slide', 500); // this toggle is from jQueryUI  
+    
+  });
+
+});
+  
+  </script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
