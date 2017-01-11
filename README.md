@@ -20,9 +20,11 @@ Simple and handy navigation bar for easy integration and customization on any ne
 
 ## Code
 
+Simply, open *v-menu.html* or *h-menu.html* on your favourite browser and test it right away.
+When you download the zip file, these are the files to look for:
+
 ### Vertical menu bar
 
-When you download the zip file, these are the files to look for:
 <pre>
 <code>.
 ├── ...
@@ -35,7 +37,6 @@ When you download the zip file, these are the files to look for:
 
 ### Horizontal menu bar
 
-When you download the zip file, these are the files to look for:
 <pre>
 <code>.
 ├── ...
@@ -45,8 +46,6 @@ When you download the zip file, these are the files to look for:
 └── ...
 </code>
 </pre>
-
-Simply, open *v-menu.html* or *h-menu.html* on your favourite browser and test it right away.
 
 ## Versions
 
