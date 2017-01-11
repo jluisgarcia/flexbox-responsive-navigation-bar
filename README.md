@@ -5,15 +5,17 @@ SORRY FOR THE INCONVENIENCE
 
 Simple and handy navigation bar for easy integration and customization on any new or existing web page. **No need for Bootstrap**. We can choose from two options:
 
-- vertical menu bar.
-- horizontal menu bar.
+- Vertical menu bar.
+- Horizontal menu bar.
+
+## Vertical Menu bar
 
 ### Dependencies
 
 - jQuery
 - Font Awesome (optional bars icon)
 
-### Vertical menu bar
+### Code
 
 When you download the zip file, this are the files to look for:
 <pre><code>.
