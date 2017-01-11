@@ -18,14 +18,15 @@ Simple and handy navigation bar for easy integration and customization on any ne
 ### Code
 
 When you download the zip file, these are the files to look for:
-<pre><code>
-.
+<pre>
+<code>.
 ├── ...
 ├── v-menu.html             
 ├── css                    
 │   └── style.css          
 └── ...
-</code></pre>
+</code>
+</pre>
 
 ### Versions
 
