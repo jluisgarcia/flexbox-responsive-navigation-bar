@@ -15,6 +15,12 @@ Simple and handy navigation bar for easy integration and customization on any ne
 - jQuery
 - Font Awesome (optional bars icon)
 
+### Horizontal menu bar
+
+- jQuery
+- jQueryUI
+- Font Awesome (optional bars icon)
+
 ## Code
 
 ### Vertical menu bar
@@ -29,7 +35,21 @@ When you download the zip file, these are the files to look for:
 └── ...
 </code>
 </pre>
-Simply, open *v-menu.html* on your favourite browser and test it right away.
+
+### Horizontal menu bar
+
+When you download the zip file, these are the files to look for:
+<pre>
+<code>.
+├── ...
+├── h-menu.html             
+├── h-css                    
+│   └── style.css          
+└── ...
+</code>
+</pre>
+
+Simply, open *v-menu.html* or *h-menu.html* on your favourite browser and test it right away.
 
 ## Versions
 
@@ -38,3 +58,7 @@ Simply, open *v-menu.html* on your favourite browser and test it right away.
 + 1.0
   - First production-ready release.
   
+### Horizontal menu bar
+
++ 0.6
+  - Development state. 
