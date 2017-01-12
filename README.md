@@ -1,7 +1,9 @@
 # Flexbox responsive navigation bar
 
 Simple and handy navigation bar for easy integration and customization on any new or existing web page. Works well with Bootstrap, if needed.
-Current breakpoint to change desktop to mobile view is setup at "sm", based on Bootstrap Grid. We can choose from two options:
+Current breakpoint to mobile view is setup at "sm", based on Bootstrap Grid. It can be changed easily in the style sheet.
+
+We can choose from two options:
 
 - Vertical menu bar.
 - Horizontal menu bar.
