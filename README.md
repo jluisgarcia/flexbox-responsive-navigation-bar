@@ -62,3 +62,7 @@ When you download the zip file, these are the files to look for:
 ## License
 
 MIT
+
+## Contact
+
+jluisgarcia.gh@gmail.com
