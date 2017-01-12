@@ -24,7 +24,7 @@ We can choose from two options:
 ## Code
 
 Simply, open *v-menu.html* or *h-menu.html* on your favourite browser and test it right away.
-When you download the zip file, these are the files to look for:
+When you download the zip package, these are the files to look for:
 
 ### Vertical menu bar
 
