@@ -55,8 +55,7 @@
   	$('.toggle').click(function() {
 	  $('.block-two').slideToggle(300, function() {
 		var blocktwo = document.getElementsByClassName('block-two'); 
-		if (blocktwo[0].style.display == 'none') { 
-		  console.log('success');
+		if (blocktwo[0].style.display == 'none') { 		
 		  blocktwo[0].removeAttribute('style');
 		}
 	  });
